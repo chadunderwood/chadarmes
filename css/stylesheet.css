@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Coda+Caption:800|Fjalla+One|Sriracha&display=swap');
+<!-- font-family: 'Sriracha', cursive;
+font-family: 'Coda Caption', sans-serif;
+font-family: 'Fjalla One', sans-serif; -->
+a {
+  color: #fff;
+}
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h1 {
+  color: ;
+}
+h2 {}
+
+#top-nav {
+  color: #fff;
+  font-size: ;
+}
+#index-title {}
+#index-youtube-welcome {}
+#index-socials {
+  font-family: 'Sriracha', cursive;
+  font-size: 2.5rem;
+  position: relative;
+  margin-top: 5rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+#index-socials-links{}
+#social-icons {
+  width: 5rem;
+  height: 5rem;
+}
