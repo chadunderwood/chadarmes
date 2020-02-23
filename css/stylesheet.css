@@ -8,47 +8,14 @@ a {
 a:hover {
   color: fff;
 }
-body {
-  align-content: center;
-  margin-left: 5rem;
-  background-color: #000;
-  color: #fff;
-  font-family: 'Fjalla One', sans-serif;
-}
 h1 {
-  color: ;
-  margin-top: 5rem;
+  font-size: 3rem;
 }
 h2 {
-
+  font-size: 2rem;
 }
-.index-text {
-  font-size: 3rem;
-  font-family: 'Fjalla One', sans-serif;;
-  font-weight: ;
-}
-#top-nav {
-  color: #fff;
-  font-size: 1.5rem;
-}
-#index-title {}
-#index-youtube-welcome {}
-#index-socials {
-  font-family: 'Sriracha', cursive;
-  font-size: 2.5rem;
-  position: relative;
-  margin-top: 5rem;
-  margin-left: ;
-  margin-right: ;
-}
-#index-socials-links{}
-#social-icons {
-  width: 5rem;
-  height: 5rem;
-}
-#podcast-cover {
-  align-content: center;
-  margin-top: 5rem;
+h3 {
+  font-size: 1rem;
 }
 footer {
   margin-top: 5rem;
