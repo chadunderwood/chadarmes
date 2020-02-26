@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800|Fjalla+One|Sriracha&display=swap');
-<!-- font-family: 'Sriracha', cursive;
+/* font-family: 'Sriracha', cursive;
 font-family: 'Coda Caption', sans-serif;
-font-family: 'Fjalla One', sans-serif; -->
+font-family: 'Fjalla One', sans-serif; */
 a {
   color: #fff;
 }
@@ -15,7 +15,6 @@ body {
   color: #fff;
   font-family: 'Fjalla One', sans-serif;
 }
-
 h1 {
   color: ;
   margin-top: 5rem;
@@ -32,27 +31,44 @@ h2 {
   color: #fff;
   font-size: 1.5rem;
 }
-#index-title {}
-#index-youtube-welcome {}
+#index-title {
+
+}
+#index-youtube-welcome {
+
+}
+#iframe-music {
+
+  }
+#iframe-apple-music {
+  padding-top: 0px;
+  height: 600px;
+  width: 600px;
+  visibility: visible;
+  position: absolute;
+  }
+#iframe-spotify-music {
+  padding-top: 0px;
+  height: 600px;
+  width: 600px;
+  visibility: hidden;
+  position:absolute;
+}
 #index-socials {
   font-family: 'Sriracha', cursive;
   font-size: 2.5rem;
-  position: relative;
-  margin-top: 5rem;
-  margin-left: ;
-  margin-right: ;
 }
-#index-socials-links{}
+#index-socials-links{
+
+}
 #social-icons {
   width: 5rem;
   height: 5rem;
 }
-
 #podcast-cover {
   align-content: center;
   margin-top: 5rem;
 }
-
 footer {
   margin-top: 5rem;
   text-align: center;
